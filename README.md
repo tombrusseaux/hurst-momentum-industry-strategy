@@ -23,7 +23,7 @@ Weights are held constant between rebalancing dates and extended until the most 
 
 ---
 
-## 🧪 Research Notebook (`Projet_Python.ipynb`)
+## Research Notebook (`Projet_Python.ipynb`)
 
 The notebook contains:
 - exploratory data analysis,
@@ -35,7 +35,7 @@ It serves as the **research and validation layer**, while `main.py` is designed 
 
 ---
 
-## 📊 Data
+## Data
 
 - Price data is fetched dynamically using `yfinance`
 - Industry and sector classifications are provided via `Bdd_Projet_Python.xlsx`
